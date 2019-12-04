@@ -12,11 +12,17 @@ An assignment is also an excellent opportunity to open up a conversation between
 
 #### A Level
 
+To get an A-, you need to have both the MonsterReader and MonsterWriter classes passing all tests.
+
+To get an A, in addition to the A- requirements, you also need to then have the other 2 classes passing all tests.
+
+An A+ is everything at the A level, plus your code is just plain _noice_ - it follows all design guidelines and is a pleasure to read.
+
 #### B Level
 
-Phase 2 is completed: you've submitted all 4 source files outlined in the Phase One instructions and it all compiles. You may have some small deviations from the design guidelines, but overall, you're following them.
+Phase 2 is completed: you've submitted all 6 source files outlined in the Phase Two instructions and they all compile. You may have some small deviations from the design guidelines, but overall, you're following them.
 
-You should have one test class for each of the 4 classes; each tests class must contain 2 associated @Test methods that are both passing.
+You should have one test class for each of the 2 classes **you've** created; each tests class must contain 2 associated @Test methods that are both passing.
 
 #### C Level
 

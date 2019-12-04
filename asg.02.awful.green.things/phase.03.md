@@ -20,6 +20,8 @@ You will need to revise some of the classes you created in phase two, create two
 - [ ] complete a `MonsterReader` class which passes all the tests I provide
 - [ ] complete a `MonsterWriter` class which passes all the tests I provide
 
+Please look at the [file format details](JAML.details.md) for the files you'll be reading from and writing to.
+
 #### CREATIVE TIME
 
 If you have some free time left - and energy - you can do some additional tasks to gain a bit of a bonus: I will weight your lowest lab quiz 2% and your highest lab quiz 6%. Your lowest lab quiz **cannot** be a F - to put it another way, I will only modify a quiz that was actually written!
