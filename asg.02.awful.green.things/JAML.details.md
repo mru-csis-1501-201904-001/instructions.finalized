@@ -17,7 +17,7 @@ area_start
 	- adults: 14
 	- stunned_fragments: 6
 	- eggs: 10
-	- stunned_egg: 12
+	- stunned_eggs: 12
 area_done
 
 area_start
